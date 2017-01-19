@@ -58,7 +58,7 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 
 
 ## Portial window
-<img src="Screenshots/PQ_MainShell.png" alt="" style="width: 80%; padding:2 em"/>
+<img src="Screenshots/PQ_MainShell.png" alt="" style="width: 50%; padding:2 em"/>
 
 #### The entrances to the three main modules of Psychorus Quest.
 
