@@ -47,10 +47,22 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
           - Experiment design window
     * Data Collection module
 
-### Screenshots demo
-![MainShell](Screenshots/PQ_MainShell.png)
+# Screenshots demo
+
+## Login & Register
+<img src="Screenshots/PQ_Login.png" alt="" style="width: 250px; padding:2 em"/>
+
+<img src="Screenshots/PQ_Register.png" alt="" style="width: 250px; padding:2 em"/>
+
+#### Experimenters need to register & login to use the platform.
 
 
+## Portial window
+<img src="Screenshots/PQ_MainShell.png" alt="" style="width: 80%; padding:2 em"/>
+
+#### The entrances to the three main modules of Psychorus Quest.
+
+## Questionnaire module
 ![QuestionnaireMainShell](Screenshots/PQ_QuestionnaireMainShell.png)
 
 ![QuestionnaireDesignShell](Screenshots/PQ_QuestionnaireDesignShell.png)
@@ -58,7 +70,7 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 ![QuestionnairePreview](Screenshots/PQ_QuestionnairePreview.png)
 
 ![ExperimentMainShell](Screenshots/PQ_ExperimentMainShell.png)
-An experiment has an invitation code.
+#### An experiment has an invitation code.
 
 
 ![ExperimentDesign](Screenshots/PQ_ExperimentDesign.png)
@@ -66,10 +78,6 @@ An experiment has an invitation code.
 ![DataCollection](Screenshots/PQ_DataCollection.png)
 
 ![DataDumped](Screenshots/PQ_DataDumped.png)
-
-![Login Prompt](Screenshots/PQ_Login.png)
-
-![Register Prompt](Screenshots/PQ_Register.png)
 
 
 北京汇心心理科技有限公司 版权所有 Copyright © 2015-2017, Psychorus, All Rights Reserved
