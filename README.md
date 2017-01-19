@@ -10,7 +10,7 @@ Typically, an experiment in EmotionLog Suite is carried out as followed.
 
 
 ### Workflow chart
-![Workflow](Screenshots/Workflow.jpg)
+<img src="Screenshots/Workflow.jpg" alt="Workflow" width="80%"/>
 
 1. Questionnaires design
 2. Experiment configurations
@@ -59,13 +59,13 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 
 ## Portial window
 <img src="Screenshots/PQ_MainShell.png" alt="" width="80%"/>
-
 #### The entrances to the three main modules of Psychorus Quest.
 
 ## Questionnaire design module: Questionnaire List
 <img src="Screenshots/PQ_QuestionnaireMainShell.png" alt="" width="80%"/>
 #### This window will show a list of the questionnaires managed by the experimenter. 
 #### Choose a questionnaire to edit and the questionnaire edit window will prompt out.
+
 
 ## Questionnaire design module: Questionnaire Edit
 <img src="Screenshots/PQ_QuestionnaireDesignShell.png" alt="" width="80%"/>
