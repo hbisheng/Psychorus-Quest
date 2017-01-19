@@ -50,15 +50,15 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 # Screenshots demo
 
 ## Login & Register
-<img src="Screenshots/PQ_Login.png" alt="" style="width: 250px; padding:2 em"/>
+<img src="Screenshots/PQ_Login.png" alt="" width="35%"/>
 
-<img src="Screenshots/PQ_Register.png" alt="" style="width: 250px; padding:2 em"/>
+<img src="Screenshots/PQ_Register.png" alt="" width="35%"/>
 
 #### Experimenters need to register & login to use the platform.
 
 
 ## Portial window
-<img src="Screenshots/PQ_MainShell.png" alt="" style="width: 50%; padding:2 em"/>
+<img src="Screenshots/PQ_MainShell.png" alt="" width="80%"/>
 
 #### The entrances to the three main modules of Psychorus Quest.
 
