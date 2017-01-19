@@ -9,10 +9,8 @@ As part of a research project at the Department of Psychology, Tsinghua Universi
 Typically, an experiment in EmotionLog Suite is carried out as followed.
 
 
-
 ### Workflow chart
 ![Workflow](Screenshots/Workflow.jpg)
-
 
 1. Questionnaires design
 2. Experiment configurations
@@ -24,6 +22,16 @@ Typically, an experiment in EmotionLog Suite is carried out as followed.
 8. Subject management
 9. Data Export
 
+### Contributions: 
+- Psychorus Quest
+	- **Bisheng Huang**: Core logics, basic user interfaces and interactions
+	- **Xiang Li**: UI improvement
+- EmotionLog
+	- **Bisheng Huang**: Design and development
+- Web server
+	- **Bisheng Huang**: Development, deployment and maintainance
+
+
 # Psychorus-Quest
 
 ### Overview
@@ -31,11 +39,6 @@ Psychorus Quest is a experiment management platform for mobile-sensing experimen
 
 The following is the detailed introduction of Psychorus Quest. Also, see [EmotionLog](https://github.com/hbisheng/EmotionLog) for more information.
  
-
-### Contributions: 
-- **Bisheng Huang**: back logics, basic user interfaces and interactions
-- **Xiang Li**: UI improvement
-
 ### Hierarchies
 - Login window
 - Register window
