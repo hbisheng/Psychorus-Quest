@@ -58,43 +58,43 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 #### Experimenters need to register & login to use the platform.
 
 ## Portial window
-<img src="Screenshots/PQ_MainShell.png" alt="" width="80%"/>
+<img src="Screenshots/PQ_MainShell.png" style="max-width:100%;" />
 #### The entrances to the three main modules of Psychorus Quest.
 
 ## Questionnaire design module: Questionnaire List
-<img src="Screenshots/PQ_QuestionnaireMainShell.png" alt="" width="80%"/>
+<img src="Screenshots/PQ_QuestionnaireMainShell.png" style="max-width:77%;"/>
 #### This window will show a list of the questionnaires managed by the experimenter. 
 #### Choose a questionnaire to edit and the questionnaire edit window will prompt out.
 
 
 ## Questionnaire design module: Questionnaire Edit
-<img src="Screenshots/PQ_QuestionnaireDesignShell.png" alt="" width="80%"/>
+<img src="Screenshots/PQ_QuestionnaireDesignShell.png" alt="" width="100%"/>
 #### A questionnaire can have serveral pages. 
-#### Each page can have serveral questions with different types(single choice, multiple choice, range).
+#### Each page can have serveral questions with different types(single choice, multiple choice, range selection, etc.).
 
 ## Questionnaire design module: Questionnaire Preview
-<img src="Screenshots/PQ_QuestionnairePreview.png" alt="" width="30%"/>
+<img src="Screenshots/PQ_QuestionnairePreview.png" alt="" width="50%"/>
 #### Preview the questionnaire on the desktop. 
 #### The questionnaires will actually be answered on the phone.
 
 ## Experiment management module: Experiment List
-<img src="Screenshots/PQ_ExperimentMainShell.png" alt="" width="80%"/>
+<img src="Screenshots/PQ_ExperimentMainShell.png" alt="" width="82%"/>
 #### A list of experiment being managed.
 
 ## Experiment management module: Experiment Panel
-<img src="Screenshots/PQ_ExperimentDesign.png" alt="" width="80%"/>
+<img src="Screenshots/PQ_ExperimentDesign.png" alt="" width="82%"/>
 #### An experiment has an invitation code. Participant can join an experiment by entering the its code.
 #### Serveral questionnaires can be binded to one experiment. Each binded questionnaire will have its own sampling strategy (when and how often the questionnaires will be delivered to the user). 
 #### Once a participant joins an experiment, it will appear in the experiment's subject list.
 #### Advance configurations includes binding a customized wristband to a certain subject.
 
 ## Data Collection module
-<img src="Screenshots/PQ_DataCollection.png" alt="" width="80%"/>
+<img src="Screenshots/PQ_DataCollection.png" alt="" width="90%"/>
 #### Within this window, experimenters will be able to collect questionnaire answers, to get some statistics about the data, and to dump the data. 
 
 
 ## Dumped data format: Sample
-<img src="Screenshots/PQ_DataDumped.png" alt="" width="80%"/>
+<img src="Screenshots/PQ_DataDumped.png" alt="" width="100%"/>
 #### A sample of the dumped data, in csv format.
 
 
