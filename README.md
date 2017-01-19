@@ -54,9 +54,7 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 
 ## Login & Register
 <img src="Screenshots/PQ_Login.png" alt="" width="35%"/>
-
 <img src="Screenshots/PQ_Register.png" alt="" width="35%"/>
-
 #### Experimenters need to register & login to use the platform.
 
 ## Portial window
@@ -75,7 +73,7 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 #### Each page can have serveral questions with different types(single choice, multiple choice, range).
 
 ## Questionnaire design module: Questionnaire Preview
-<img src="Screenshots/PQ_QuestionnairePreview.png" alt="" width="50%"/>
+<img src="Screenshots/PQ_QuestionnairePreview.png" alt="" width="30%"/>
 #### Preview the questionnaire on the desktop. 
 #### The questionnaires will actually be answered on the phone.
 
