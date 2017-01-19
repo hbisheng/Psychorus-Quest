@@ -1,6 +1,6 @@
 # Background
 
-## Intuition
+### Intuition
 
 Traditional approches to study a person's emotions usually rely on the paper-and-pencil questionnaires experiments that take place in a lab. However, these methods rely heavily on the subjects' abilities to recall their experiences retrospectively, which might introduce bias. Recently, a research method called [Experience Sampling Method (ESM)](https://en.wikipedia.org/wiki/Experience_sampling_method) is burgeoning, in which the participants are asked to record their temporal feelings at real time or nearly real time. In this way, retrospective biases can be minimized when studying people's daily life experiences.
 
@@ -8,27 +8,35 @@ As part of a research project at the Department of Psychology, Tsinghua Universi
 
 Typically, an experiment in EmotionLog Suite is carried out as followed.
 
-## Workflow
 
-1. (Within Psychorus Quest) Experimenters will design questionnaires, which contains serveral questions of differnt type, and configure their experiments, which contains serveral.
-2. (Within EmotionLog) The participants will use the Android application to join certain experiment. 
-3. (Within EmotionLog) Based on the sampling strategy the experimenters had specified, certain exp-related questionnaires will be delivered to the participant at a certain time. The subjects will answer the questionnaires and submit their answers. 
-4. (Within Psychorus Quest) After the subjects submit their answers, the experimenters will be able to collect the answers and dump the data into certain format. 
 
+### Workflow chart
+![Workflow](Screenshots/Workflow.jpg)
+
+
+1. Questionnaires design
+2. Experiment configurations
+3. Upload experiments & questionnaires
+4. Join experiment, download questionnaires
+5. Questionnaires notified & answered
+6. Submit answers
+7. Download answers
+8. Subject management
+9. Data Export
 
 # Psychorus-Quest
 
-## Overview
+### Overview
 Psychorus Quest is a experiment management platform for mobile-sensing experiments in psychological research.  
 
 The following is the detailed introduction of Psychorus Quest. Also, see [EmotionLog](https://github.com/hbisheng/EmotionLog) for more information.
  
 
-## Contributions: 
+### Contributions: 
 - Bisheng Huang: back logics, basic user interfaces and interactions
 - Xiang Li: UI improvement
 
-## Hierarchies
+### Hierarchies
 - Login window
 - Register window
 - Portal window
@@ -39,8 +47,9 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
           - Experiment design window
     * Data Collection module
 
-# Screenshots demo
+### Screenshots demo
 ![MainShell](Screenshots/PQ_MainShell.png)
+
 
 ![QuestionnaireMainShell](Screenshots/PQ_QuestionnaireMainShell.png)
 
