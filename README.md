@@ -4,7 +4,7 @@
 
 Traditional approches to study a person's emotions usually rely on the paper-and-pencil questionnaires experiments that take place in a lab. However, these methods rely heavily on the subjects' abilities to recall their experiences retrospectively, which might introduce bias. Recently, a research method called [Experience Sampling Method (ESM)](https://en.wikipedia.org/wiki/Experience_sampling_method) is burgeoning, in which the participants are asked to record their temporal feelings at real time or nearly real time. In this way, retrospective biases can be minimized when studying people's daily life experiences.
 
-As part of a research project at the Department of Psychology, Tsinghua University, we developed *EmotionLog Suite*, which aims at combining the ESM and the mobile sensing technology. Using *EmotionLog Suite* , psychological researchers can carry out ESM experiments using mobile phones. It contains two applications: an SWT desktop application for experimenters(called *Psychorus Quest*), and an Android application for participants(called *EmotionLog*). 
+As part of a research project at the Department of Psychology, Tsinghua University, we developed *EmotionLog Suite*, which aims at combining the ESM and the mobile sensing technology. Using *EmotionLog Suite*, psychological researchers can carry out ESM experiments using mobile phones. It contains two applications: an SWT desktop application for experimenters (called *Psychorus Quest*), and an Android application for participants (called *EmotionLog*). 
 
 Typically, an experiment in EmotionLog Suite is carried out as followed.
 
@@ -33,8 +33,8 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
  
 
 ### Contributions: 
-- Bisheng Huang: back logics, basic user interfaces and interactions
-- Xiang Li: UI improvement
+- **Bisheng Huang**: back logics, basic user interfaces and interactions
+- **Xiang Li**: UI improvement
 
 ### Hierarchies
 - Login window
@@ -57,7 +57,7 @@ The following is the detailed introduction of Psychorus Quest. Also, see [Emotio
 #### Experimenters need to register & login to use the platform.
 
 ## Portial window
-<img src="Screenshots/PQ_MainShell.png" alt="" width="80%"/>Q
+<img src="Screenshots/PQ_MainShell.png" alt="" width="80%"/>
 
 #### The entrances to the three main modules of Psychorus Quest.
 
